@@ -16,7 +16,7 @@
 //redis配置ip和端口
 #define redisIp "127.0.0.1"
 #define redisPort 6379
-#define defineCacheTime 10
+#define defineCacheTime 3600
 class Redis:public Log {
 
 public:

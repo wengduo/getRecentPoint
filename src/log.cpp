@@ -17,7 +17,7 @@ Log::Log() {
 	sprintf(buff,"%d%02d%02d",1900+p->tm_year,1+p->tm_mon,p->tm_mday);
 	this->baseErrorLogPath += buff;
 	this->baseNoticeLogPath += buff;
-	this->basePreformanceLogPath += buff;
+	this->basePerformanceLogPath += buff;
 	//获取文件目录
 	memset(buff,0,128);
 	getcwd(buff,127);
@@ -59,14 +59,14 @@ void Log::log_error(std::string file,std::string function,int line,std::string t
 	char log[1024] = {0};
 	sprintf(log,"[ERROR][%d-%02d-%02dT%02d:%02d:%02d.%03ld][line=%s/%s]:%d-[functon=%s]-[title=%s]|",1900+p->tm_year,1+p->tm_mon,p->tm_mday,p->tm_hour,p->tm_min,p->tm_sec,now.tv_usec/1000,path.c_str(),file.c_str(),line,function.c_str(),title.c_str());
 	std::string logData = log;
-	logData += "{" + data + "}\n";
+	logData += "data:{" + data + "}\n";
 	fwrite(logData.c_str(),1,strlen(logData.c_str()),fd);
 	fclose(fd);
 	logData.clear();
 }
 
 void Log::log_performance(std::string file,std::string function,int line,std::string title,std::string &data) {
-	FILE *fd = fopen(this->baseErrorLogPath.c_str(),"a+");
+	FILE *fd = fopen(this->basePerformanceLogPath.c_str(),"a+");
 	assert(NULL != fd);
 	time_t timep;
 	struct tm *p;
@@ -77,23 +77,23 @@ void Log::log_performance(std::string file,std::string function,int line,std::st
 	char log[1024] = {0};
 	sprintf(log,"[PERFORMANCE][%d-%02d-%02dT%02d:%02d:%02d.%03ld][line=%s/%s]:%d-[functon=%s]-[title=%s]|",1900+p->tm_year,1+p->tm_mon,p->tm_mday,p->tm_hour,p->tm_min,p->tm_sec,now.tv_usec/1000,path.c_str(),file.c_str(),line,function.c_str(),title.c_str());
 	std::string logData = log;
-	logData += "{" + data + "}\n";
-	fwrite(logData.c_str(),1,strlen(logData.c_str())+1,fd);
+	logData += "data:{" + data + "}\n";
+	fwrite(logData.c_str(),1,strlen(logData.c_str()),fd);
 	fclose(fd);
 	logData.clear();
 }
 
 void Log::log_error(std::string file,std::string function,int line,std::string title,std::vector<std::vector<std::string> > &data) {
-    std::string jsonData;
-    for(int i = 0;i < data.size();++i) {
-      for(int j = 0;j < data[i].size();++j) {
-        jsonData += data[i][j];
-				if(i != data.size()-1 || j != data[i].size()-1) {
-					jsonData += "||";
-				}
+	std::string jsonData;
+	for(int i = 0;i < data.size();++i) {
+		for(int j = 0;j < data[i].size();++j) {
+			jsonData += data[i][j];
+			if(i != data.size()-1 || j != data[i].size()-1) {
+				jsonData += "||";
 			}
 		}
-		log_error(file,function,line,title,jsonData);
+	}
+	log_error(file,function,line,title,jsonData);
 }
 
 void Log::log_error(std::string file,std::string function,int line,std::string title,std::vector<std::string> &data) {

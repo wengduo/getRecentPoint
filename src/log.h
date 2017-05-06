@@ -57,7 +57,7 @@ public:
 	void log_performance(std::string file,std::string function,int line,std::string title,int data);
 
 private:
-	std::string basePreformanceLogPath = "../logs/performance.log.";
+	std::string basePerformanceLogPath = "../logs/performance.log.";
 	std::string baseNoticeLogPath = "../logs/point.log."; 
 	std::string baseErrorLogPath = "../logs/point.log.wf.";
 	std::string path;

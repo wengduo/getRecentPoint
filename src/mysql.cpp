@@ -67,7 +67,7 @@ bool Mysql::select(std::string queryStr,std::vector<std::vector<std::string>> &d
 	return true;
 }
 
-bool Mysql::query(std::string &str) {
+bool Mysql::query(std::string str) {
 	log_performance(__FILE__,__func__,__LINE__,"mysql command",str);
 	bool flag = true;
 	if(mysql_query(&mysql,str.c_str())) {

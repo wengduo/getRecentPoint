@@ -24,7 +24,7 @@ public:
 
 	Mysql operator=(const Mysql &data);
 
-	bool query(std::string &str);
+	bool query(std::string str);
 
 	bool select(std::string queryStr,std::vector<std::vector<std::string> > &data);
 	
