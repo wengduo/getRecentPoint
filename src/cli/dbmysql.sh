@@ -9,7 +9,7 @@ CREATE TABLE order_list_%d (
   order_id varchar(64) COLLATE utf8_bin NOT NULL DEFAULT '' COMMENT '订单id',
   order_post_lat double unsigned NOT NULL DEFAULT '0' COMMENT '发单时的纬度',
   order_post_lng double unsigned NOT NULL DEFAULT '0' COMMENT '发单时的经度',
-  PRIMARY KEY (order_id),
+  PRIMARY KEY (order_id)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
 
 \n
