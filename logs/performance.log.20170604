@@ -1,0 +1,77 @@
+[PERFORMANCE][2017-06-04T09:45:53.450][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:17-[functon=Mysql]-[title=mysql_connect success]|data:{}
+[PERFORMANCE][2017-06-04T09:45:53.450][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:15-[functon=Redis]-[title=redis connect success]|data:{0}
+[PERFORMANCE][2017-06-04T09:45:53.451][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:15-[functon=Redis]-[title=redis connect success]|data:{0}
+[PERFORMANCE][2017-06-04T09:45:53.451][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET wx4eyut4k}
+[PERFORMANCE][2017-06-04T09:45:53.452][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:35-[functon=set]-[title=redis set]|data:{SET wx4eyut4k wx4eyt,wx4eyv,wx4ezj,wx4eys,wx4ezh,wx4eye,wx4eyg,wx4ez5}
+[PERFORMANCE][2017-06-04T09:45:53.452][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:39-[functon=set]-[title=redis set cacheTime]|data:{3600}
+[PERFORMANCE][2017-06-04T09:45:53.452][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET pointIds1:wx4eyut4k}
+[PERFORMANCE][2017-06-04T09:45:53.452][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4eyu}
+[PERFORMANCE][2017-06-04T09:45:53.452][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4eyu%' and display = 1}
+[PERFORMANCE][2017-06-04T09:45:53.514][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4eyt}
+[PERFORMANCE][2017-06-04T09:45:53.514][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4eyt%' and display = 1}
+[PERFORMANCE][2017-06-04T09:45:53.532][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4eyv}
+[PERFORMANCE][2017-06-04T09:45:53.532][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4eyv%' and display = 1}
+[PERFORMANCE][2017-06-04T09:45:53.553][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4ezj}
+[PERFORMANCE][2017-06-04T09:45:53.553][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4ezj%' and display = 1}
+[PERFORMANCE][2017-06-04T09:45:53.582][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4eys}
+[PERFORMANCE][2017-06-04T09:45:53.582][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4eys%' and display = 1}
+[PERFORMANCE][2017-06-04T09:45:53.607][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4ezh}
+[PERFORMANCE][2017-06-04T09:45:53.607][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4ezh%' and display = 1}
+[PERFORMANCE][2017-06-04T09:45:53.625][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4eye}
+[PERFORMANCE][2017-06-04T09:45:53.625][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4eye%' and display = 1}
+[PERFORMANCE][2017-06-04T09:45:53.636][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4eyg}
+[PERFORMANCE][2017-06-04T09:45:53.636][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4eyg%' and display = 1}
+[PERFORMANCE][2017-06-04T09:45:53.667][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4ez5}
+[PERFORMANCE][2017-06-04T09:45:53.667][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4ez5%' and display = 1}
+[PERFORMANCE][2017-06-04T09:45:53.676][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:35-[functon=set]-[title=redis set]|data:{SET pointIds1:wx4eyut4k 656,653,652,641}
+[PERFORMANCE][2017-06-04T09:45:53.676][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:39-[functon=set]-[title=redis set cacheTime]|data:{3600}
+[PERFORMANCE][2017-06-04T09:46:06.808][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:17-[functon=Mysql]-[title=mysql_connect success]|data:{}
+[PERFORMANCE][2017-06-04T09:46:06.808][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:15-[functon=Redis]-[title=redis connect success]|data:{0}
+[PERFORMANCE][2017-06-04T09:46:06.809][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:15-[functon=Redis]-[title=redis connect success]|data:{0}
+[PERFORMANCE][2017-06-04T09:46:06.809][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:24-[functon=get]-[title=redis get success]|data:{GET wx4eyut4k}
+[PERFORMANCE][2017-06-04T09:46:06.809][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:24-[functon=get]-[title=redis get success]|data:{GET pointIds1:wx4eyut4k}
+[PERFORMANCE][2017-06-04T09:46:06.809][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4eyu}
+[PERFORMANCE][2017-06-04T09:46:06.809][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4eyu%' and display = 1}
+[PERFORMANCE][2017-06-04T09:46:06.828][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4eyt}
+[PERFORMANCE][2017-06-04T09:46:06.828][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4eyt%' and display = 1}
+[PERFORMANCE][2017-06-04T09:46:06.856][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4eyv}
+[PERFORMANCE][2017-06-04T09:46:06.857][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4eyv%' and display = 1}
+[PERFORMANCE][2017-06-04T09:46:06.877][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4ezj}
+[PERFORMANCE][2017-06-04T09:46:06.877][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4ezj%' and display = 1}
+[PERFORMANCE][2017-06-04T09:46:06.902][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4eys}
+[PERFORMANCE][2017-06-04T09:46:06.902][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4eys%' and display = 1}
+[PERFORMANCE][2017-06-04T09:46:06.921][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4ezh}
+[PERFORMANCE][2017-06-04T09:46:06.921][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4ezh%' and display = 1}
+[PERFORMANCE][2017-06-04T09:46:06.937][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4eye}
+[PERFORMANCE][2017-06-04T09:46:06.937][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4eye%' and display = 1}
+[PERFORMANCE][2017-06-04T09:46:06.948][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4eyg}
+[PERFORMANCE][2017-06-04T09:46:06.948][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4eyg%' and display = 1}
+[PERFORMANCE][2017-06-04T09:46:06.984][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4ez5}
+[PERFORMANCE][2017-06-04T09:46:06.984][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4ez5%' and display = 1}
+[PERFORMANCE][2017-06-04T09:46:07.004][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:35-[functon=set]-[title=redis set]|data:{SET pointIds1:wx4eyut4k 656,653,652,641}
+[PERFORMANCE][2017-06-04T09:46:07.005][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:39-[functon=set]-[title=redis set cacheTime]|data:{3600}
+[PERFORMANCE][2017-06-04T09:46:51.605][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:17-[functon=Mysql]-[title=mysql_connect success]|data:{}
+[PERFORMANCE][2017-06-04T09:46:51.606][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:15-[functon=Redis]-[title=redis connect success]|data:{0}
+[PERFORMANCE][2017-06-04T09:46:51.606][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:15-[functon=Redis]-[title=redis connect success]|data:{0}
+[PERFORMANCE][2017-06-04T09:46:51.606][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:24-[functon=get]-[title=redis get success]|data:{GET wx4eyut4k}
+[PERFORMANCE][2017-06-04T09:46:51.607][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:24-[functon=get]-[title=redis get success]|data:{GET pointIds1:wx4eyut4k}
+[PERFORMANCE][2017-06-04T09:46:51.607][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4eyu}
+[PERFORMANCE][2017-06-04T09:46:51.607][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4eyu%' and display = 1}
+[PERFORMANCE][2017-06-04T09:46:51.614][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4eyt}
+[PERFORMANCE][2017-06-04T09:46:51.614][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4eyt%' and display = 1}
+[PERFORMANCE][2017-06-04T09:46:51.627][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4eyv}
+[PERFORMANCE][2017-06-04T09:46:51.627][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4eyv%' and display = 1}
+[PERFORMANCE][2017-06-04T09:46:51.643][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4ezj}
+[PERFORMANCE][2017-06-04T09:46:51.643][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4ezj%' and display = 1}
+[PERFORMANCE][2017-06-04T09:46:51.653][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4eys}
+[PERFORMANCE][2017-06-04T09:46:51.653][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4eys%' and display = 1}
+[PERFORMANCE][2017-06-04T09:46:51.664][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4ezh}
+[PERFORMANCE][2017-06-04T09:46:51.664][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4ezh%' and display = 1}
+[PERFORMANCE][2017-06-04T09:46:51.684][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4eye}
+[PERFORMANCE][2017-06-04T09:46:51.684][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4eye%' and display = 1}
+[PERFORMANCE][2017-06-04T09:46:51.699][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4eyg}
+[PERFORMANCE][2017-06-04T09:46:51.699][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4eyg%' and display = 1}
+[PERFORMANCE][2017-06-04T09:46:51.711][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:28-[functon=get]-[title=redis get failure]|data:{GET sqlpoint:wx4ez5}
+[PERFORMANCE][2017-06-04T09:46:51.711][line=/home/wengduo/getRecentPoint/bin/./src/mysql.cpp]:71-[functon=query]-[title=mysql command]|data:{select id,address,lat,lng from point where geohash like 'wx4ez5%' and display = 1}
+[PERFORMANCE][2017-06-04T09:46:51.721][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:35-[functon=set]-[title=redis set]|data:{SET pointIds1:wx4eyut4k 656,653,652,641}
+[PERFORMANCE][2017-06-04T09:46:51.721][line=/home/wengduo/getRecentPoint/bin/./src/redis.cpp]:39-[functon=set]-[title=redis set cacheTime]|data:{3600}

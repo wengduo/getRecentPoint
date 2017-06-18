@@ -1,0 +1,623 @@
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00011}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{3}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{10111}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{23}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00101}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{5}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11111}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{31}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:67-[functon=getAroundSquares]-[title=geohash redis key]|data:{wx4ey3r5z}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:69-[functon=getAroundSquares]-[title=geohash redis value]|data:{}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{101110001111001}
+[NOTICE][2017-05-30T09:34:34.204][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{23673}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:122-[functon=decbin]-[title=D to B]|data:{56440}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:137-[functon=decbin]-[title=D to B]|data:{}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{101110001111001}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{23673}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:122-[functon=decbin]-[title=D to B]|data:{56442}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:137-[functon=decbin]-[title=D to B]|data:{}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{110100101011001}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{26969}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:122-[functon=decbin]-[title=D to B]|data:{59736}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:137-[functon=decbin]-[title=D to B]|data:{}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{110100101011001}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{26969}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:122-[functon=decbin]-[title=D to B]|data:{59738}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:137-[functon=decbin]-[title=D to B]|data:{}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00110}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{6}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01100}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{12}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00001}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{1}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01001}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{9}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00000}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{0}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00010}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{2}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01000}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{8}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:96-[functon=getAroundSquares]-[title=geohash redis set value]|data:{wx4ey4,wx4ey6,wx4eyd,wx4ey1,wx4ey9,wx4ey0,wx4ey2,wx4ey8}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:137-[functon=getRecentPoint]-[title=geohash值]|data:{wx4ey3r5z||wx4ey4||wx4ey6||wx4eyd||wx4ey1||wx4ey9||wx4ey0||wx4ey2||wx4ey8}
+[NOTICE][2017-05-30T09:34:34.205][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:141-[functon=getRecentPoint]-[title=get redis pointIds]|data:{}
+[NOTICE][2017-05-30T09:34:34.250][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey3%' and display = 1}
+[NOTICE][2017-05-30T09:34:34.258][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey4%' and display = 1}
+[NOTICE][2017-05-30T09:34:34.269][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey6%' and display = 1}
+[NOTICE][2017-05-30T09:34:34.276][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4eyd%' and display = 1}
+[NOTICE][2017-05-30T09:34:34.284][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey1%' and display = 1}
+[NOTICE][2017-05-30T09:34:34.292][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey9%' and display = 1}
+[NOTICE][2017-05-30T09:34:34.302][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey0%' and display = 1}
+[NOTICE][2017-05-30T09:34:34.309][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey2%' and display = 1}
+[NOTICE][2017-05-30T09:34:34.318][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey8%' and display = 1}
+[NOTICE][2017-05-30T09:34:34.318][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:40-[functon=popFourRecentPoint]-[title=Total points]|data:{492||中关村软件园-6号门||40.042683998151||116.29102349281||513||鸿嘉物业管理公司-西门||40.044799||116.295571||517||玉林宾馆-西北门||40.042224||116.296661||533||八维教育学院第二校区-北门||40.043325||116.299573||1204||上地办公区-南门||40.041813||116.294478||1335||首农蓝海中心-东南门||40.041464||116.292808||1527||中关村软件园-5号门||40.043526||116.296012||1672||东北旺中路公交站(路西)||40.04075||116.291222||1690||华夏科技大厦-北1门||40.045074||116.298328||1692||南瑞科技大厦-东南门||40.045091||116.295217||1693||东北旺公交站(路南)||40.043255||116.295163||496||环宇大厦-东北门对面||40.046253||116.291832||504||首创空间-西门||40.049135||116.294103||523||汉王大厦-西北门||40.047427||116.297963||527||东软大厦-西南门||40.045801||116.298435||531||上地西路/上地九街西北角||40.048922||116.299127||532||中关村软件园-3号门||40.047858||116.299687||534||上地九街/上地西路东南角||40.048786||116.29968||544||软件园东站公交站(路东)||40.04585||116.301187||1524||首创空间-南门||40.048216||116.29553||1526||中关村软件园-2号门||40.050072||116.298684||1683||方舟大厦-东南门||40.049267||116.293999||1687||中关村云广场c座-北门||40.049797||116.297615||1688||中关村软件园孵化器||40.050076||116.296054||1689||国际软件大厦-东北门||40.045218||116.296826||1691||南瑞科技大厦-西北门||40.046577||116.292642||551||百度大厦A座-南门||40.049443476689||116.30192935467||572||上地创业园东区-北门||40.047616||116.305352||575||上地九街/创业北路西南角||40.049891||116.304445||587||得实大厦-东门||40.045809||116.308832||1510||上地创业园西区-东门||40.046405||116.304606||1511||上地创业园西区-西门||40.04583||116.303099||1512||上地创业园西区-南门||40.045341||116.304225||1513||上地创业园东区-南门||40.045937||116.30636||1514||上地创业园东区-西门||40.046487||116.304805||1515||汇众大厦-南门||40.046323||116.307701||1516||东方电子科技大厦-北门||40.048047||116.306645||1334||东馨园-西南门||40.040819||116.289015||1367||尚东数字山谷2号楼（东北门）||40.043949||116.288812||1673||东馨园-东南门||40.040951||116.289863||553||联创大厦-东北门||40.043177||116.302625||557||上地六街/上地西路西南角||40.041994||116.30336||567||上地七街公交站(路西)||40.045078||116.305431||569||福道大厦-南门||40.039965||116.305888||578||奎科科技大厦-东北门||40.042002||116.307244||594||联想大厦-西南1门对面||40.041875||116.309454||1209||中关村发展大厦-西门||40.04013||116.308597||1210||南天大厦-西门||40.041739||116.307659||1211||知识产权培训中心-西门||40.044195||116.306194||1212||数字传媒大厦-西门||40.043493||116.306371||1213||汉庭酒店(上地西路)||40.042253||116.303458||1214||开拓大厦-东门对面||40.044318||116.303979||1215||奎科科技大厦-西门||40.0413||116.305743||1521||方正大厦-南门||40.040454||116.307305||1522||康得大厦-南门||40.042331||116.304134||559||马连洼北路东口公交站(路北)||40.034712||116.30365||571||景晨轩KTV-东门||40.03746||116.305801||586||金隅嘉华大厦-东南门||40.03585||116.30873||590||中国电子彩虹集团-东北门||40.038713||116.309164||1208||实创大厦-西门||40.037645||116.310051||1216||上地创新大厦-东门||40.039534||116.310813||1517||上地创新大厦-北门||40.038725||116.309423||1518||玉景公寓-西门||40.037123||116.310089||1519||彩虹大厦-西门||40.03875||116.30724||1520||数码视讯大厦-东门对面||40.039513||116.306779||1667||金隅嘉华大厦-西门||40.036552||116.306466||1668||金隅嘉华大厦-北门||40.037821||116.307657||1669||四方大厦-东南门||40.037805||116.307415||1670||时代集团c座-正门||40.038109||116.305806||1671||时代集团-西北门||40.038811||116.305468||1682||彩虹大厦-东门||40.039374||116.308773}
+[NOTICE][2017-05-30T09:34:34.318][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:170-[functon=getRecentPoint]-[title=points]|data:{}
+[NOTICE][2017-05-30T09:34:34.318][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:172-[functon=getRecentPoint]-[title=set redis pointIds]|data:{533,553,557,1213}
+[NOTICE][2017-05-30T09:40:16.593][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:40:16.593][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:40:16.593][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:40:16.593][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:40:16.593][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:40:16.593][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:40:16.593][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:40:16.593][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:40:16.593][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T09:40:16.593][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T09:40:16.593][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00011}
+[NOTICE][2017-05-30T09:40:16.593][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{3}
+[NOTICE][2017-05-30T09:40:16.593][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{10111}
+[NOTICE][2017-05-30T09:40:16.593][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{23}
+[NOTICE][2017-05-30T09:40:16.593][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00101}
+[NOTICE][2017-05-30T09:40:16.593][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{5}
+[NOTICE][2017-05-30T09:40:16.593][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11111}
+[NOTICE][2017-05-30T09:40:16.593][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{31}
+[NOTICE][2017-05-30T09:40:16.593][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:67-[functon=getAroundSquares]-[title=geohash redis key]|data:{wx4ey3r5z}
+[NOTICE][2017-05-30T09:40:16.594][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:69-[functon=getAroundSquares]-[title=geohash redis value]|data:{wx4ey4,wx4ey6,wx4eyd,wx4ey1,wx4ey9,wx4ey0,wx4ey2,wx4ey8}
+[NOTICE][2017-05-30T09:40:16.594][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:137-[functon=getRecentPoint]-[title=geohash值]|data:{wx4ey3r5z||wx4ey4||wx4ey6||wx4eyd||wx4ey1||wx4ey9||wx4ey0||wx4ey2||wx4ey8}
+[NOTICE][2017-05-30T09:40:16.594][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:141-[functon=getRecentPoint]-[title=get redis pointIds]|data:{533,553,557,1213}
+[NOTICE][2017-05-30T09:40:16.609][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey3%' and display = 1}
+[NOTICE][2017-05-30T09:40:16.617][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey4%' and display = 1}
+[NOTICE][2017-05-30T09:40:16.641][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey6%' and display = 1}
+[NOTICE][2017-05-30T09:40:16.654][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4eyd%' and display = 1}
+[NOTICE][2017-05-30T09:40:16.672][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey1%' and display = 1}
+[NOTICE][2017-05-30T09:40:16.689][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey9%' and display = 1}
+[NOTICE][2017-05-30T09:40:16.696][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey0%' and display = 1}
+[NOTICE][2017-05-30T09:40:16.703][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey2%' and display = 1}
+[NOTICE][2017-05-30T09:40:16.712][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey8%' and display = 1}
+[NOTICE][2017-05-30T09:40:16.713][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:40-[functon=popFourRecentPoint]-[title=Total points]|data:{492||中关村软件园-6号门||40.042683998151||116.29102349281||513||鸿嘉物业管理公司-西门||40.044799||116.295571||517||玉林宾馆-西北门||40.042224||116.296661||533||八维教育学院第二校区-北门||40.043325||116.299573||1204||上地办公区-南门||40.041813||116.294478||1335||首农蓝海中心-东南门||40.041464||116.292808||1527||中关村软件园-5号门||40.043526||116.296012||1672||东北旺中路公交站(路西)||40.04075||116.291222||1690||华夏科技大厦-北1门||40.045074||116.298328||1692||南瑞科技大厦-东南门||40.045091||116.295217||1693||东北旺公交站(路南)||40.043255||116.295163||496||环宇大厦-东北门对面||40.046253||116.291832||504||首创空间-西门||40.049135||116.294103||523||汉王大厦-西北门||40.047427||116.297963||527||东软大厦-西南门||40.045801||116.298435||531||上地西路/上地九街西北角||40.048922||116.299127||532||中关村软件园-3号门||40.047858||116.299687||534||上地九街/上地西路东南角||40.048786||116.29968||544||软件园东站公交站(路东)||40.04585||116.301187||1524||首创空间-南门||40.048216||116.29553||1526||中关村软件园-2号门||40.050072||116.298684||1683||方舟大厦-东南门||40.049267||116.293999||1687||中关村云广场c座-北门||40.049797||116.297615||1688||中关村软件园孵化器||40.050076||116.296054||1689||国际软件大厦-东北门||40.045218||116.296826||1691||南瑞科技大厦-西北门||40.046577||116.292642||551||百度大厦A座-南门||40.049443476689||116.30192935467||572||上地创业园东区-北门||40.047616||116.305352||575||上地九街/创业北路西南角||40.049891||116.304445||587||得实大厦-东门||40.045809||116.308832||1510||上地创业园西区-东门||40.046405||116.304606||1511||上地创业园西区-西门||40.04583||116.303099||1512||上地创业园西区-南门||40.045341||116.304225||1513||上地创业园东区-南门||40.045937||116.30636||1514||上地创业园东区-西门||40.046487||116.304805||1515||汇众大厦-南门||40.046323||116.307701||1516||东方电子科技大厦-北门||40.048047||116.306645||1334||东馨园-西南门||40.040819||116.289015||1367||尚东数字山谷2号楼（东北门）||40.043949||116.288812||1673||东馨园-东南门||40.040951||116.289863||553||联创大厦-东北门||40.043177||116.302625||557||上地六街/上地西路西南角||40.041994||116.30336||567||上地七街公交站(路西)||40.045078||116.305431||569||福道大厦-南门||40.039965||116.305888||578||奎科科技大厦-东北门||40.042002||116.307244||594||联想大厦-西南1门对面||40.041875||116.309454||1209||中关村发展大厦-西门||40.04013||116.308597||1210||南天大厦-西门||40.041739||116.307659||1211||知识产权培训中心-西门||40.044195||116.306194||1212||数字传媒大厦-西门||40.043493||116.306371||1213||汉庭酒店(上地西路)||40.042253||116.303458||1214||开拓大厦-东门对面||40.044318||116.303979||1215||奎科科技大厦-西门||40.0413||116.305743||1521||方正大厦-南门||40.040454||116.307305||1522||康得大厦-南门||40.042331||116.304134||559||马连洼北路东口公交站(路北)||40.034712||116.30365||571||景晨轩KTV-东门||40.03746||116.305801||586||金隅嘉华大厦-东南门||40.03585||116.30873||590||中国电子彩虹集团-东北门||40.038713||116.309164||1208||实创大厦-西门||40.037645||116.310051||1216||上地创新大厦-东门||40.039534||116.310813||1517||上地创新大厦-北门||40.038725||116.309423||1518||玉景公寓-西门||40.037123||116.310089||1519||彩虹大厦-西门||40.03875||116.30724||1520||数码视讯大厦-东门对面||40.039513||116.306779||1667||金隅嘉华大厦-西门||40.036552||116.306466||1668||金隅嘉华大厦-北门||40.037821||116.307657||1669||四方大厦-东南门||40.037805||116.307415||1670||时代集团c座-正门||40.038109||116.305806||1671||时代集团-西北门||40.038811||116.305468||1682||彩虹大厦-东门||40.039374||116.308773}
+[NOTICE][2017-05-30T09:40:16.713][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:170-[functon=getRecentPoint]-[title=points]|data:{533,553,557,1213}
+[NOTICE][2017-05-30T09:40:16.713][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:172-[functon=getRecentPoint]-[title=set redis pointIds]|data:{533,553,557,1213}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00011}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{3}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{10111}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{23}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00101}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{5}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11111}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{31}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:67-[functon=getAroundSquares]-[title=geohash redis key]|data:{wx4ey3r5z}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:69-[functon=getAroundSquares]-[title=geohash redis value]|data:{wx4ey4,wx4ey6,wx4eyd,wx4ey1,wx4ey9,wx4ey0,wx4ey2,wx4ey8}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:137-[functon=getRecentPoint]-[title=geohash值]|data:{wx4ey3r5z||wx4ey4||wx4ey6||wx4eyd||wx4ey1||wx4ey9||wx4ey0||wx4ey2||wx4ey8}
+[NOTICE][2017-05-30T09:42:17.007][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:141-[functon=getRecentPoint]-[title=get redis pointIds]|data:{533,553,557,1213}
+[NOTICE][2017-05-30T09:42:17.015][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey3%' and display = 1}
+[NOTICE][2017-05-30T09:42:17.027][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey4%' and display = 1}
+[NOTICE][2017-05-30T09:42:17.045][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey6%' and display = 1}
+[NOTICE][2017-05-30T09:42:17.059][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4eyd%' and display = 1}
+[NOTICE][2017-05-30T09:42:17.082][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey1%' and display = 1}
+[NOTICE][2017-05-30T09:42:17.090][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey9%' and display = 1}
+[NOTICE][2017-05-30T09:42:17.108][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey0%' and display = 1}
+[NOTICE][2017-05-30T09:42:17.114][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey2%' and display = 1}
+[NOTICE][2017-05-30T09:42:17.123][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey8%' and display = 1}
+[NOTICE][2017-05-30T09:42:17.123][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:40-[functon=popFourRecentPoint]-[title=Total points]|data:{492||中关村软件园-6号门||40.042683998151||116.29102349281||513||鸿嘉物业管理公司-西门||40.044799||116.295571||517||玉林宾馆-西北门||40.042224||116.296661||533||八维教育学院第二校区-北门||40.043325||116.299573||1204||上地办公区-南门||40.041813||116.294478||1335||首农蓝海中心-东南门||40.041464||116.292808||1527||中关村软件园-5号门||40.043526||116.296012||1672||东北旺中路公交站(路西)||40.04075||116.291222||1690||华夏科技大厦-北1门||40.045074||116.298328||1692||南瑞科技大厦-东南门||40.045091||116.295217||1693||东北旺公交站(路南)||40.043255||116.295163||496||环宇大厦-东北门对面||40.046253||116.291832||504||首创空间-西门||40.049135||116.294103||523||汉王大厦-西北门||40.047427||116.297963||527||东软大厦-西南门||40.045801||116.298435||531||上地西路/上地九街西北角||40.048922||116.299127||532||中关村软件园-3号门||40.047858||116.299687||534||上地九街/上地西路东南角||40.048786||116.29968||544||软件园东站公交站(路东)||40.04585||116.301187||1524||首创空间-南门||40.048216||116.29553||1526||中关村软件园-2号门||40.050072||116.298684||1683||方舟大厦-东南门||40.049267||116.293999||1687||中关村云广场c座-北门||40.049797||116.297615||1688||中关村软件园孵化器||40.050076||116.296054||1689||国际软件大厦-东北门||40.045218||116.296826||1691||南瑞科技大厦-西北门||40.046577||116.292642||551||百度大厦A座-南门||40.049443476689||116.30192935467||572||上地创业园东区-北门||40.047616||116.305352||575||上地九街/创业北路西南角||40.049891||116.304445||587||得实大厦-东门||40.045809||116.308832||1510||上地创业园西区-东门||40.046405||116.304606||1511||上地创业园西区-西门||40.04583||116.303099||1512||上地创业园西区-南门||40.045341||116.304225||1513||上地创业园东区-南门||40.045937||116.30636||1514||上地创业园东区-西门||40.046487||116.304805||1515||汇众大厦-南门||40.046323||116.307701||1516||东方电子科技大厦-北门||40.048047||116.306645||1334||东馨园-西南门||40.040819||116.289015||1367||尚东数字山谷2号楼（东北门）||40.043949||116.288812||1673||东馨园-东南门||40.040951||116.289863||553||联创大厦-东北门||40.043177||116.302625||557||上地六街/上地西路西南角||40.041994||116.30336||567||上地七街公交站(路西)||40.045078||116.305431||569||福道大厦-南门||40.039965||116.305888||578||奎科科技大厦-东北门||40.042002||116.307244||594||联想大厦-西南1门对面||40.041875||116.309454||1209||中关村发展大厦-西门||40.04013||116.308597||1210||南天大厦-西门||40.041739||116.307659||1211||知识产权培训中心-西门||40.044195||116.306194||1212||数字传媒大厦-西门||40.043493||116.306371||1213||汉庭酒店(上地西路)||40.042253||116.303458||1214||开拓大厦-东门对面||40.044318||116.303979||1215||奎科科技大厦-西门||40.0413||116.305743||1521||方正大厦-南门||40.040454||116.307305||1522||康得大厦-南门||40.042331||116.304134||559||马连洼北路东口公交站(路北)||40.034712||116.30365||571||景晨轩KTV-东门||40.03746||116.305801||586||金隅嘉华大厦-东南门||40.03585||116.30873||590||中国电子彩虹集团-东北门||40.038713||116.309164||1208||实创大厦-西门||40.037645||116.310051||1216||上地创新大厦-东门||40.039534||116.310813||1517||上地创新大厦-北门||40.038725||116.309423||1518||玉景公寓-西门||40.037123||116.310089||1519||彩虹大厦-西门||40.03875||116.30724||1520||数码视讯大厦-东门对面||40.039513||116.306779||1667||金隅嘉华大厦-西门||40.036552||116.306466||1668||金隅嘉华大厦-北门||40.037821||116.307657||1669||四方大厦-东南门||40.037805||116.307415||1670||时代集团c座-正门||40.038109||116.305806||1671||时代集团-西北门||40.038811||116.305468||1682||彩虹大厦-东门||40.039374||116.308773}
+[NOTICE][2017-05-30T09:42:17.123][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:170-[functon=getRecentPoint]-[title=points]|data:{533,553,557,1213}
+[NOTICE][2017-05-30T09:42:17.123][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:172-[functon=getRecentPoint]-[title=set redis pointIds]|data:{533,553,557,1213}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00011}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{3}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{10111}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{23}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00101}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{5}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11111}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{31}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:67-[functon=getAroundSquares]-[title=geohash redis key]|data:{wx4ey3r5z}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:69-[functon=getAroundSquares]-[title=geohash redis value]|data:{wx4ey4,wx4ey6,wx4eyd,wx4ey1,wx4ey9,wx4ey0,wx4ey2,wx4ey8}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:137-[functon=getRecentPoint]-[title=geohash值]|data:{wx4ey3r5z||wx4ey4||wx4ey6||wx4eyd||wx4ey1||wx4ey9||wx4ey0||wx4ey2||wx4ey8}
+[NOTICE][2017-05-30T09:44:17.224][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:141-[functon=getRecentPoint]-[title=get redis pointIds]|data:{533,553,557,1213}
+[NOTICE][2017-05-30T09:44:17.240][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey3%' and display = 1}
+[NOTICE][2017-05-30T09:44:17.255][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey4%' and display = 1}
+[NOTICE][2017-05-30T09:44:17.265][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey6%' and display = 1}
+[NOTICE][2017-05-30T09:44:17.280][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4eyd%' and display = 1}
+[NOTICE][2017-05-30T09:44:17.292][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey1%' and display = 1}
+[NOTICE][2017-05-30T09:44:17.311][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey9%' and display = 1}
+[NOTICE][2017-05-30T09:44:17.328][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey0%' and display = 1}
+[NOTICE][2017-05-30T09:44:17.334][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey2%' and display = 1}
+[NOTICE][2017-05-30T09:44:17.341][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ey8%' and display = 1}
+[NOTICE][2017-05-30T09:44:17.341][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:40-[functon=popFourRecentPoint]-[title=Total points]|data:{492||中关村软件园-6号门||40.042683998151||116.29102349281||513||鸿嘉物业管理公司-西门||40.044799||116.295571||517||玉林宾馆-西北门||40.042224||116.296661||533||八维教育学院第二校区-北门||40.043325||116.299573||1204||上地办公区-南门||40.041813||116.294478||1335||首农蓝海中心-东南门||40.041464||116.292808||1527||中关村软件园-5号门||40.043526||116.296012||1672||东北旺中路公交站(路西)||40.04075||116.291222||1690||华夏科技大厦-北1门||40.045074||116.298328||1692||南瑞科技大厦-东南门||40.045091||116.295217||1693||东北旺公交站(路南)||40.043255||116.295163||496||环宇大厦-东北门对面||40.046253||116.291832||504||首创空间-西门||40.049135||116.294103||523||汉王大厦-西北门||40.047427||116.297963||527||东软大厦-西南门||40.045801||116.298435||531||上地西路/上地九街西北角||40.048922||116.299127||532||中关村软件园-3号门||40.047858||116.299687||534||上地九街/上地西路东南角||40.048786||116.29968||544||软件园东站公交站(路东)||40.04585||116.301187||1524||首创空间-南门||40.048216||116.29553||1526||中关村软件园-2号门||40.050072||116.298684||1683||方舟大厦-东南门||40.049267||116.293999||1687||中关村云广场c座-北门||40.049797||116.297615||1688||中关村软件园孵化器||40.050076||116.296054||1689||国际软件大厦-东北门||40.045218||116.296826||1691||南瑞科技大厦-西北门||40.046577||116.292642||551||百度大厦A座-南门||40.049443476689||116.30192935467||572||上地创业园东区-北门||40.047616||116.305352||575||上地九街/创业北路西南角||40.049891||116.304445||587||得实大厦-东门||40.045809||116.308832||1510||上地创业园西区-东门||40.046405||116.304606||1511||上地创业园西区-西门||40.04583||116.303099||1512||上地创业园西区-南门||40.045341||116.304225||1513||上地创业园东区-南门||40.045937||116.30636||1514||上地创业园东区-西门||40.046487||116.304805||1515||汇众大厦-南门||40.046323||116.307701||1516||东方电子科技大厦-北门||40.048047||116.306645||1334||东馨园-西南门||40.040819||116.289015||1367||尚东数字山谷2号楼（东北门）||40.043949||116.288812||1673||东馨园-东南门||40.040951||116.289863||553||联创大厦-东北门||40.043177||116.302625||557||上地六街/上地西路西南角||40.041994||116.30336||567||上地七街公交站(路西)||40.045078||116.305431||569||福道大厦-南门||40.039965||116.305888||578||奎科科技大厦-东北门||40.042002||116.307244||594||联想大厦-西南1门对面||40.041875||116.309454||1209||中关村发展大厦-西门||40.04013||116.308597||1210||南天大厦-西门||40.041739||116.307659||1211||知识产权培训中心-西门||40.044195||116.306194||1212||数字传媒大厦-西门||40.043493||116.306371||1213||汉庭酒店(上地西路)||40.042253||116.303458||1214||开拓大厦-东门对面||40.044318||116.303979||1215||奎科科技大厦-西门||40.0413||116.305743||1521||方正大厦-南门||40.040454||116.307305||1522||康得大厦-南门||40.042331||116.304134||559||马连洼北路东口公交站(路北)||40.034712||116.30365||571||景晨轩KTV-东门||40.03746||116.305801||586||金隅嘉华大厦-东南门||40.03585||116.30873||590||中国电子彩虹集团-东北门||40.038713||116.309164||1208||实创大厦-西门||40.037645||116.310051||1216||上地创新大厦-东门||40.039534||116.310813||1517||上地创新大厦-北门||40.038725||116.309423||1518||玉景公寓-西门||40.037123||116.310089||1519||彩虹大厦-西门||40.03875||116.30724||1520||数码视讯大厦-东门对面||40.039513||116.306779||1667||金隅嘉华大厦-西门||40.036552||116.306466||1668||金隅嘉华大厦-北门||40.037821||116.307657||1669||四方大厦-东南门||40.037805||116.307415||1670||时代集团c座-正门||40.038109||116.305806||1671||时代集团-西北门||40.038811||116.305468||1682||彩虹大厦-东门||40.039374||116.308773}
+[NOTICE][2017-05-30T09:44:17.341][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:170-[functon=getRecentPoint]-[title=points]|data:{533,553,557,1213}
+[NOTICE][2017-05-30T09:44:17.341][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:172-[functon=getRecentPoint]-[title=set redis pointIds]|data:{533,553,557,1213}
+[NOTICE][2017-05-30T09:45:06.741][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:45:06.741][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:45:06.741][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:45:06.741][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:45:06.741][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:45:06.741][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:45:06.741][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11010}
+[NOTICE][2017-05-30T09:45:06.741][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{26}
+[NOTICE][2017-05-30T09:45:06.741][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01111}
+[NOTICE][2017-05-30T09:45:06.741][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{15}
+[NOTICE][2017-05-30T09:45:06.741][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{10001}
+[NOTICE][2017-05-30T09:45:06.741][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{17}
+[NOTICE][2017-05-30T09:45:06.741][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01010}
+[NOTICE][2017-05-30T09:45:06.741][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{10}
+[NOTICE][2017-05-30T09:45:06.741][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01010}
+[NOTICE][2017-05-30T09:45:06.741][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{10}
+[NOTICE][2017-05-30T09:45:06.741][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01111}
+[NOTICE][2017-05-30T09:45:06.741][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{15}
+[NOTICE][2017-05-30T09:45:06.741][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:67-[functon=getAroundSquares]-[title=geohash redis key]|data:{wx4ugjbbg}
+[NOTICE][2017-05-30T09:45:06.741][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:69-[functon=getAroundSquares]-[title=geohash redis value]|data:{}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{101110010011101}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{23709}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:122-[functon=decbin]-[title=D to B]|data:{56476}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:137-[functon=decbin]-[title=D to B]|data:{}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{101110010011101}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{23709}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:122-[functon=decbin]-[title=D to B]|data:{56478}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:137-[functon=decbin]-[title=D to B]|data:{}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{110100101101100}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{26988}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:122-[functon=decbin]-[title=D to B]|data:{59755}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:137-[functon=decbin]-[title=D to B]|data:{}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{110100101101100}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{26988}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:122-[functon=decbin]-[title=D to B]|data:{59757}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:137-[functon=decbin]-[title=D to B]|data:{}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11010}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{26}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01110}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{14}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11010}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{26}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01111}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{15}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{10100}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{20}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11010}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{26}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01111}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{15}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{10110}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{22}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11010}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{26}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01110}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{14}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11011}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{27}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11010}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{26}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01111}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{15}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{10011}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{19}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11010}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{26}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01110}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{14}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11010}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{26}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11010}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{26}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01111}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{15}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{10000}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{16}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11010}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{26}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01111}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{15}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{10010}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{18}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:96-[functon=getAroundSquares]-[title=geohash redis set value]|data:{wx4ufy,wx4ugn,wx4ugq,wx4ufv,wx4ugm,wx4ufu,wx4ugh,wx4ugk}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:137-[functon=getRecentPoint]-[title=geohash值]|data:{wx4ugjbbg||wx4ufy||wx4ugn||wx4ugq||wx4ufv||wx4ugm||wx4ufu||wx4ugh||wx4ugk}
+[NOTICE][2017-05-30T09:45:06.742][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:141-[functon=getRecentPoint]-[title=get redis pointIds]|data:{}
+[NOTICE][2017-05-30T09:45:06.753][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ugj%' and display = 1}
+[NOTICE][2017-05-30T09:45:06.771][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ufy%' and display = 1}
+[NOTICE][2017-05-30T09:45:06.784][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ugn%' and display = 1}
+[NOTICE][2017-05-30T09:45:06.804][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ugq%' and display = 1}
+[NOTICE][2017-05-30T09:45:06.829][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ufv%' and display = 1}
+[NOTICE][2017-05-30T09:45:06.851][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ugm%' and display = 1}
+[NOTICE][2017-05-30T09:45:06.867][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ufu%' and display = 1}
+[NOTICE][2017-05-30T09:45:06.883][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ugh%' and display = 1}
+[NOTICE][2017-05-30T09:45:06.890][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ugk%' and display = 1}
+[NOTICE][2017-05-30T09:45:06.890][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:40-[functon=popFourRecentPoint]-[title=Total points]|data:{}
+[NOTICE][2017-05-30T09:45:06.890][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:170-[functon=getRecentPoint]-[title=points]|data:{}
+[NOTICE][2017-05-30T09:45:06.890][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:172-[functon=getRecentPoint]-[title=set redis pointIds]|data:{}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11010}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{26}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11001}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{25}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{10010}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{18}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:67-[functon=getAroundSquares]-[title=geohash redis key]|data:{wx4eyut4k}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:69-[functon=getAroundSquares]-[title=geohash redis value]|data:{}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{101110001111100}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{23676}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:122-[functon=decbin]-[title=D to B]|data:{56443}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:137-[functon=decbin]-[title=D to B]|data:{}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{101110001111100}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{23676}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:122-[functon=decbin]-[title=D to B]|data:{56445}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:137-[functon=decbin]-[title=D to B]|data:{}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{110100101011011}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{26971}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:122-[functon=decbin]-[title=D to B]|data:{59738}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:137-[functon=decbin]-[title=D to B]|data:{}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{110100101011011}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{26971}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:122-[functon=decbin]-[title=D to B]|data:{59740}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:137-[functon=decbin]-[title=D to B]|data:{}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11001}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{25}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11011}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{27}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11111}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{31}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{10001}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{17}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:46:21.982][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11000}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{24}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11111}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{31}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{10000}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{16}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01111}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{15}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11111}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{31}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00101}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{5}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:96-[functon=getAroundSquares]-[title=geohash redis set value]|data:{wx4eyt,wx4eyv,wx4ezj,wx4eys,wx4ezh,wx4eye,wx4eyg,wx4ez5}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:137-[functon=getRecentPoint]-[title=geohash值]|data:{wx4eyut4k||wx4eyt||wx4eyv||wx4ezj||wx4eys||wx4ezh||wx4eye||wx4eyg||wx4ez5}
+[NOTICE][2017-05-30T09:46:21.983][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:141-[functon=getRecentPoint]-[title=get redis pointIds]|data:{}
+[NOTICE][2017-05-30T09:46:21.998][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4eyu%' and display = 1}
+[NOTICE][2017-05-30T09:46:22.014][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4eyt%' and display = 1}
+[NOTICE][2017-05-30T09:46:22.031][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4eyv%' and display = 1}
+[NOTICE][2017-05-30T09:46:22.055][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ezj%' and display = 1}
+[NOTICE][2017-05-30T09:46:22.073][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4eys%' and display = 1}
+[NOTICE][2017-05-30T09:46:22.082][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ezh%' and display = 1}
+[NOTICE][2017-05-30T09:46:22.089][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4eye%' and display = 1}
+[NOTICE][2017-05-30T09:46:22.097][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4eyg%' and display = 1}
+[NOTICE][2017-05-30T09:46:22.105][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ez5%' and display = 1}
+[NOTICE][2017-05-30T09:46:22.105][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:40-[functon=popFourRecentPoint]-[title=Total points]|data:{619||博雅德园-西南门||40.057266||116.312753||620||领秀新硅谷AB区-东门||40.056642||116.313064||623||融泽嘉园南区-西南门对面||40.060825||116.313375||652||北外附属外国语学校-东南门||40.056785||116.32088||653||龙兴园中区-东南门||40.060607878708||116.32143974304||656||北外附属外国语学校-东门对面||40.059232||116.321299||592||回龙观村中区-西门||40.062435||116.309336||1201||回龙观新村西区-东门||40.06239||116.309139||1203||回龙观新村东区-西门||40.062899||116.3121||1238||融泽嘉园6号院-西门||40.065288||116.310704||613||回龙观村东区-北门||40.064126||116.312286||638||蓝天嘉园-北门||40.065978||116.316524||641||融泽嘉园-北门||40.062164||116.317468||646||蓝天嘉园-东门||40.065711||116.319217||663||京昌路回龙观公交站(路西)||40.064319||116.322436||1202||回龙观新村中区-东门||40.062332||116.31239||1239||融泽嘉园一期-北门||40.065506||116.315671||1815||融泽嘉园中区-南门||40.064385048195||116.31269037724||680||回龙观医院-南门||40.064976||116.327491||684||金榜园-北门||40.063084||116.327764||668||龙兴园南区-北门||40.058259359066||116.32421314716||683||金榜园-南门||40.058974||116.327478||688||上奥世纪中心-西门对面||40.057319||116.328701||585||领秀新硅谷C区-东北1门||40.056108||116.308553||604||领秀新硅谷CD区-东南门||40.053537||116.310725||633||西二旗中路/西二旗大街东南角||40.054231||116.315644||636||西二旗铭科苑-东门||40.052839||116.316326||1920||西二旗大街公交站(路北)||40.053176097064||116.31269574165||671||安宁庄路/安宁庄东路东北角||40.051406||116.324329||679||安宁佳园-北门||40.052712||116.327232}
+[NOTICE][2017-05-30T09:46:22.105][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:170-[functon=getRecentPoint]-[title=points]|data:{}
+[NOTICE][2017-05-30T09:46:22.105][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:172-[functon=getRecentPoint]-[title=set redis pointIds]|data:{656,653,652,641}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11010}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{26}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11001}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{25}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{10010}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{18}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:67-[functon=getAroundSquares]-[title=geohash redis key]|data:{wx4eyut4k}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:69-[functon=getAroundSquares]-[title=geohash redis value]|data:{wx4eyt,wx4eyv,wx4ezj,wx4eys,wx4ezh,wx4eye,wx4eyg,wx4ez5}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:137-[functon=getRecentPoint]-[title=geohash值]|data:{wx4eyut4k||wx4eyt||wx4eyv||wx4ezj||wx4eys||wx4ezh||wx4eye||wx4eyg||wx4ez5}
+[NOTICE][2017-05-30T09:46:37.544][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:141-[functon=getRecentPoint]-[title=get redis pointIds]|data:{656,653,652,641}
+[NOTICE][2017-05-30T09:46:37.560][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4eyu%' and display = 1}
+[NOTICE][2017-05-30T09:46:37.571][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4eyt%' and display = 1}
+[NOTICE][2017-05-30T09:46:37.593][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4eyv%' and display = 1}
+[NOTICE][2017-05-30T09:46:37.611][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ezj%' and display = 1}
+[NOTICE][2017-05-30T09:46:37.628][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4eys%' and display = 1}
+[NOTICE][2017-05-30T09:46:37.642][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ezh%' and display = 1}
+[NOTICE][2017-05-30T09:46:37.651][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4eye%' and display = 1}
+[NOTICE][2017-05-30T09:46:37.657][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4eyg%' and display = 1}
+[NOTICE][2017-05-30T09:46:37.664][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:158-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4ez5%' and display = 1}
+[NOTICE][2017-05-30T09:46:37.664][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:40-[functon=popFourRecentPoint]-[title=Total points]|data:{619||博雅德园-西南门||40.057266||116.312753||620||领秀新硅谷AB区-东门||40.056642||116.313064||623||融泽嘉园南区-西南门对面||40.060825||116.313375||652||北外附属外国语学校-东南门||40.056785||116.32088||653||龙兴园中区-东南门||40.060607878708||116.32143974304||656||北外附属外国语学校-东门对面||40.059232||116.321299||592||回龙观村中区-西门||40.062435||116.309336||1201||回龙观新村西区-东门||40.06239||116.309139||1203||回龙观新村东区-西门||40.062899||116.3121||1238||融泽嘉园6号院-西门||40.065288||116.310704||613||回龙观村东区-北门||40.064126||116.312286||638||蓝天嘉园-北门||40.065978||116.316524||641||融泽嘉园-北门||40.062164||116.317468||646||蓝天嘉园-东门||40.065711||116.319217||663||京昌路回龙观公交站(路西)||40.064319||116.322436||1202||回龙观新村中区-东门||40.062332||116.31239||1239||融泽嘉园一期-北门||40.065506||116.315671||1815||融泽嘉园中区-南门||40.064385048195||116.31269037724||680||回龙观医院-南门||40.064976||116.327491||684||金榜园-北门||40.063084||116.327764||668||龙兴园南区-北门||40.058259359066||116.32421314716||683||金榜园-南门||40.058974||116.327478||688||上奥世纪中心-西门对面||40.057319||116.328701||585||领秀新硅谷C区-东北1门||40.056108||116.308553||604||领秀新硅谷CD区-东南门||40.053537||116.310725||633||西二旗中路/西二旗大街东南角||40.054231||116.315644||636||西二旗铭科苑-东门||40.052839||116.316326||1920||西二旗大街公交站(路北)||40.053176097064||116.31269574165||671||安宁庄路/安宁庄东路东北角||40.051406||116.324329||679||安宁佳园-北门||40.052712||116.327232}
+[NOTICE][2017-05-30T09:46:37.664][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:170-[functon=getRecentPoint]-[title=points]|data:{656,653,652,641}
+[NOTICE][2017-05-30T09:46:37.664][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:172-[functon=getRecentPoint]-[title=set redis pointIds]|data:{656,653,652,641}
+[NOTICE][2017-05-30T10:39:41.213][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T10:39:41.213][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T10:39:41.213][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T10:39:41.213][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T10:39:41.213][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T10:39:41.213][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T10:39:41.213][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T10:39:41.213][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T10:39:41.213][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T10:39:41.213][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T10:39:41.213][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11010}
+[NOTICE][2017-05-30T10:39:41.213][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{26}
+[NOTICE][2017-05-30T10:39:41.213][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11001}
+[NOTICE][2017-05-30T10:39:41.213][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{25}
+[NOTICE][2017-05-30T10:39:41.213][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T10:39:41.213][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T10:39:41.213][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{10010}
+[NOTICE][2017-05-30T10:39:41.214][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{18}
+[NOTICE][2017-05-30T10:39:41.214][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:67-[functon=getAroundSquares]-[title=geohash redis key]|data:{wx4eyut4k}
+[NOTICE][2017-05-30T10:39:41.214][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:69-[functon=getAroundSquares]-[title=geohash redis value]|data:{wx4eyt,wx4eyv,wx4ezj,wx4eys,wx4ezh,wx4eye,wx4eyg,wx4ez5}
+[NOTICE][2017-05-30T10:39:41.214][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:179-[functon=getRecentPoint]-[title=geohash值]|data:{wx4eyut4k||wx4eyt||wx4eyv||wx4ezj||wx4eys||wx4ezh||wx4eye||wx4eyg||wx4ez5}
+[NOTICE][2017-05-30T10:39:41.214][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:183-[functon=getRecentPoint]-[title=get redis pointIds]|data:{656,653,652,641}
+[NOTICE][2017-05-30T10:39:41.221][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:205-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4eyu%' and display = 1}
+[NOTICE][2017-05-30T10:41:22.835][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11100}
+[NOTICE][2017-05-30T10:41:22.835][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{28}
+[NOTICE][2017-05-30T10:41:22.835][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11101}
+[NOTICE][2017-05-30T10:41:22.835][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{29}
+[NOTICE][2017-05-30T10:41:22.835][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T10:41:22.835][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T10:41:22.835][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{01101}
+[NOTICE][2017-05-30T10:41:22.835][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{13}
+[NOTICE][2017-05-30T10:41:22.835][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11110}
+[NOTICE][2017-05-30T10:41:22.835][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{30}
+[NOTICE][2017-05-30T10:41:22.835][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11010}
+[NOTICE][2017-05-30T10:41:22.835][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{26}
+[NOTICE][2017-05-30T10:41:22.835][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{11001}
+[NOTICE][2017-05-30T10:41:22.835][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{25}
+[NOTICE][2017-05-30T10:41:22.835][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{00100}
+[NOTICE][2017-05-30T10:41:22.835][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{4}
+[NOTICE][2017-05-30T10:41:22.835][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:143-[functon=bindec]-[title=B to D]|data:{10010}
+[NOTICE][2017-05-30T10:41:22.835][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:150-[functon=bindec]-[title=B to D]|data:{18}
+[NOTICE][2017-05-30T10:41:22.835][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:67-[functon=getAroundSquares]-[title=geohash redis key]|data:{wx4eyut4k}
+[NOTICE][2017-05-30T10:41:22.835][line=/home/wengduo/getRecentPoint/bin/./src/geohash.cpp]:69-[functon=getAroundSquares]-[title=geohash redis value]|data:{wx4eyt,wx4eyv,wx4ezj,wx4eys,wx4ezh,wx4eye,wx4eyg,wx4ez5}
+[NOTICE][2017-05-30T10:41:22.836][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:179-[functon=getRecentPoint]-[title=geohash值]|data:{wx4eyut4k||wx4eyt||wx4eyv||wx4ezj||wx4eys||wx4ezh||wx4eye||wx4eyg||wx4ez5}
+[NOTICE][2017-05-30T10:41:22.836][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:183-[functon=getRecentPoint]-[title=get redis pointIds]|data:{656,653,652,641}
+[NOTICE][2017-05-30T10:41:22.843][line=/home/wengduo/getRecentPoint/bin/./src/point.cpp]:205-[functon=getRecentPoint]-[title=select success]|data:{select id,address,lat,lng from point where geohash like 'wx4eyu%' and display = 1}

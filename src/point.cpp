@@ -63,6 +63,29 @@ std::string Point::getPointsCacheKey(std::string &geohash) {
 	return key;
 }
 
+//得到缓存的key值
+std::string Point::getSqlPointsCacheKey(std::string geohash) {
+	std::string key = "sqlpoint:";
+	key += geohash;
+	return key;
+}
+
+std::string Point::getPointStringValue(std::vector<std::vector<std::string> > &points) {
+	std::string value;
+	for(int i = 0;i < points.size();i++) {
+		for(int j = 0;j < points[i].size();j++) {
+		  value += points[i][j];
+      if(j != points[i].size() - 1) {
+			  value += ",";
+		  }
+		}
+		if(i != points.size() - 1) {
+			value += "|";
+		}
+	}
+	return value;
+}
+
 std::string Point::getStringValue(std::vector<std::vector<std::string> > &points) {
 	std::string value;
 	for(int i = 0;i < points.size();i++) {
@@ -72,6 +95,31 @@ std::string Point::getStringValue(std::vector<std::vector<std::string> > &points
 		}
 	}
 	return value;
+}
+
+//得到反序列化的value值
+std::vector<std::vector<std::string>> Point::getPointVectorValue(std::string &value) {
+	char tmp[1024] = {0};
+	char buff[128] = {0};
+	std::vector<std::vector<std::string>> res;
+	strcpy(tmp,value.c_str());
+	char *p = strtok(tmp,"|,");
+	int i = 0;
+	int j = 0;
+	std::vector<std::string> res1;
+	while(p != NULL) {
+		memset(buff,0,128);
+		strcpy(buff,p);
+		res1.push_back(buff);
+		i++;
+		if(i == 4) {
+			i = 0;
+			res.push_back(res1);
+			res1.clear();
+		}
+		p = strtok(NULL,"|,");
+	}
+	return res;
 }
 
 //得到反序列化的value值
@@ -136,22 +184,16 @@ std::vector<std::vector<std::string> > Point::getRecentPoint(double lat,double l
 	std::vector<std::string> geohashs = geo.standardizeParameters(lat,lng);
 	log_notice(__FILE__,__func__,__LINE__,"geohash值",geohashs);
 	//此处可以考虑加入缓存， 可以加快查询速度
-	std::string key = getPointsCacheKey(geohashs[0]);
-	std::string value = redis.get(key);
-	log_notice(__FILE__,__func__,__LINE__,"get redis pointIds",value);
-	//看缓存中是否有，如果没有的话，就从数据库中再算一遍			
-	if(value.length() > 0) {
-		std::vector<std::string> pointIds = getVectorValue(value);
-		for(int i = 0;i < pointIds.size();i++) {
-			points.push_back(getPointInfoById(pointIds[i]));
-		}
-
-	} else {
-		char sql[128] = {0};
-		char geohash[128] = {0};
-		for(int i = 0;i < geohashs.size();i++) {
-			std::vector<std::vector<std::string> > oneGeohashData;
-			strncpy(geohash,geohashs[i].c_str(),6);
+	char sql[128] = {0};
+	char geohash[128] = {0};
+	for(int i = 0;i < geohashs.size();i++) {
+		std::vector<std::vector<std::string> > oneGeohashData;
+		strncpy(geohash,geohashs[i].c_str(),6);
+		std::string key1 = getSqlPointsCacheKey(geohash);
+		std::string value1 = redis.get(key1);
+		if(value1.length() > 0) {
+			oneGeohashData = getPointVectorValue(value1);
+		} else {
 			sprintf(sql,"select id,address,lat,lng from point where geohash like '%s%%' and display = 1",geohash);
 			bool selectRes = sqlPoint.select(sql,oneGeohashData);
 			if(selectRes) {
@@ -159,19 +201,17 @@ std::vector<std::vector<std::string> > Point::getRecentPoint(double lat,double l
 			} else {
 				log_error(__FILE__,__func__,__LINE__,"select failure",sql);
 			}
-			for(int j = 0;j < oneGeohashData.size();j++) {
-				int tmp = getDistance(lat,lng,atof(oneGeohashData[j][2].c_str()),atof(oneGeohashData[j][3].c_str()));
-				if(tmp < 1000) {
-					data.push_back(oneGeohashData[j]); 
-				}
+			std::string value1 = getPointStringValue(oneGeohashData);
+			redis.set(key1,value1);
+		}
+		for(int j = 0;j < oneGeohashData.size();j++) {
+			int tmp = getDistance(lat,lng,atof(oneGeohashData[j][2].c_str()),atof(oneGeohashData[j][3].c_str()));
+			if(tmp < 1000) {
+				data.push_back(oneGeohashData[j]); 
 			}
 		}
-		points = popFourRecentPoint(lat,lng,data);
-		log_notice(__FILE__,__func__,__LINE__,"points",value);
-		std::string value = getStringValue(points);
-		log_notice(__FILE__,__func__,__LINE__,"set redis pointIds",value);
-		redis.set(key,value);
 	}
+	points = popFourRecentPoint(lat,lng,data);
 	return points;
 }
 

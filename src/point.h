@@ -26,11 +26,17 @@ class Point :public Log {
 		std::vector<std::vector<std::string> > popFourRecentPoint(double lat,double lng,std::vector<std::vector<std::string> > &points);
 		//得到缓存的key值
 		std::string getPointsCacheKey(std::string &geohash);
+		
+		std::string getSqlPointsCacheKey(std::string geohash);
 
 		std::string getStringValue(std::vector<std::vector<std::string> > &points);
+		
+		std::string getPointStringValue(std::vector<std::vector<std::string> > &points);
 
     //得到反序列化的value值
 		std::vector<std::string> getVectorValue(std::string &value);
+		
+		std::vector<std::vector<std::string> > getPointVectorValue(std::string &value);
 
 		std::string getPointInfoKey(std::string &pointId);
 
